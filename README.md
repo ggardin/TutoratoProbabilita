@@ -16,16 +16,14 @@ Repository con le soluzioni degli esercizi del **tutorato di Probabilità e Stat
 |      8     |  7 dicembre | 12:30 14:30 |   1A150  |
 |      9     | 14 dicembre | 12:30 14:30 |   1A150  |
 
-
 ## Compilazione
 
 I file sono scritti in markdown, per ottenere i .pdf basta utilizzare Pandoc.
 
 Per i file con le spiegazioni  
-`pandoc input.md -o output.pdf  
+`pandoc input.md -o output.pdf`
 
 Per le presentazioni  
-`pandoc -t beamer input.md -o output.pdf  
-
+`pandoc -t beamer input.md -o output.pdf`
 
 *Ultimo aggiornamento: 23 novembre 2022.*
